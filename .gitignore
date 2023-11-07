@@ -1,0 +1,44 @@
+.DS_Store
+.env
+.flaskenv
+*.pyc
+*.pyo
+env/
+venv/
+.venv/
+env*
+dist/
+build/
+*.egg
+*.egg-info/
+.tox/
+.cache/
+.pytest_cache/
+.idea/
+docs/_build/
+.vscode
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+*,cover
+
+.vscode
+.flaskenv
+__pycache__
+FC_pract
+Hwrk Doc
+Hwrk Pyth
+hwrkEnv
+W1
+W2
+W3
+W4
+W5
+W6
+W7
+W9
+W10
+~$CI 3310 Homework 1.docx
+~$scussiom #2.docx
