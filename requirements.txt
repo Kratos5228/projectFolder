@@ -1,6 +1,6 @@
 blinker
 click==8.1.7
-contourpy==1.1.1
+contourpy
 cycler==0.12.0
 Flask==2.3.3
 fonttools==4.42.1
