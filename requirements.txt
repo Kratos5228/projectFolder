@@ -13,8 +13,8 @@ matplotlib
 numpy
 packaging==23.1
 pandas
-Pillow==10.0.1
-pygame==2.5.2
+Pillow
+pygame
 pyparsing==3.1.1
 python-dateutil==2.8.2
 pytz==2023.3.post1
